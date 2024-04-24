@@ -46,7 +46,7 @@ export default function Index() {
       </section>
 
       <section className="mt-12 sm:mt-24">
-        <h2 className="relative border-b py-3 text-xl before:absolute before:inset-x-0 before:bottom-0 before:h-px before:origin-right before:scale-x-0 before:bg-primary before:transition before:duration-300 hover:before:origin-left hover:before:scale-x-100 inline-block text-gray-600 font-serif">Développement d'Applications</h2>
+        <h2 className="relative border-b py-3 text-xl before:absolute before:inset-x-0 before:bottom-0 before:h-px before:origin-right before:scale-x-0 before:bg-primary before:transition before:duration-300 hover:before:origin-left hover:before:scale-x-100 inline-block text-gray-600 font-serif">Développement d&apos;Applications</h2>
       </section>
 
       <section className="mt-12 sm:mt-24">

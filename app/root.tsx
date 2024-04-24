@@ -9,11 +9,11 @@ import {
 import { ReactNode } from "react";
 import Header from "./components/header";
 // eslint-disable-next-line import/no-unresolved
-import styles from "./tailwind.css";
+import stylesheet from "./tailwind.css?url";
 import { LinksFunction } from "@remix-run/node";
 
 export const links: LinksFunction = () => [
-  { rel: "stylesheet", href: styles },
+  { rel: "stylesheet", href: stylesheet },
 ];
 
 

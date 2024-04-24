@@ -143,8 +143,8 @@ $RefreshReg$(_c2, "Header");
 window.$RefreshReg$ = prevRefreshReg;
 window.$RefreshSig$ = prevRefreshSig;
 
-// app/tailwind.css
-var tailwind_default = "/build/_assets/tailwind-4KN4XQFO.css";
+// app/tailwind.css?url
+var tailwind_default = "/build/_assets/tailwind-5CKOBF4R.css?url";
 
 // app/root.tsx
 var import_jsx_dev_runtime3 = __toESM(require_jsx_dev_runtime(), 1);
@@ -256,4 +256,4 @@ export {
   App as default,
   links
 };
-//# sourceMappingURL=/build/root-KGEDUZ4C.js.map
+//# sourceMappingURL=/build/root-SETZ6MTY.js.map
